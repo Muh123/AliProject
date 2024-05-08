@@ -1,2 +1,2 @@
 # AliProject
-This is Translate Project 
+This is Shutdown and Restart Project in Python
